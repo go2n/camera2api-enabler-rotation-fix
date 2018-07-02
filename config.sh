@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Camera2 API enabler       "
+  ui_print "   Camera2 API enabler Fix     "
   ui_print "*******************************"
 }
 

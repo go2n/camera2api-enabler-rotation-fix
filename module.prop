@@ -1,8 +1,7 @@
-id=hal3-enabler
-name=Camera2 API Enabler
+id=camera2-enabler-fix
+name=Camera2 API Enabler Fix Rotation
 version=v1.0.0
 versionCode=100
-author=P1N2O
-description=This module enables camera HAL3 on supported Snapdragon devices, what results in extended Camera2 API capabilities.
+author=Gogon
+description=This module enables camera HAL3 and fix rotation based on Camera2API Module by Manuel Pinto.
 minMagisk=1500
-
