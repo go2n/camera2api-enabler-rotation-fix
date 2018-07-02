@@ -1,5 +1,7 @@
-# Camera2API Enabler
-This module enables __HAL3__ on supported Snapdragon devices, what results in extended Camera2 API capabilities.
+# Camera2API Enabler Rotation Fix
+This module enables __HAL3__ and fix rotation based on [Camera2API Module](https://github.com/Magisk-Modules-Repo/Camera2-API-Enabler) by Manuel Pinto.
+
+I modified this module for my Xiaomi Mi5. Tested on Xiaomi Mi5 using MIUI 10 by Xiaomi.eu 8.6.21
 
 ## Instructions ##
 
@@ -12,11 +14,3 @@ This module enables __HAL3__ on supported Snapdragon devices, what results in ex
 
 ##### V1.0.0 #####
 * __Initial Release__
-
-
-## Contact ##
-<a href="https://github.com/Magisk-Modules-Repo/google-framework-magisk/issues">Commit an Issue</a>
-
-
-## Donate ##
-<a href="https://paypal.me/pinto165">PayPal</a>
